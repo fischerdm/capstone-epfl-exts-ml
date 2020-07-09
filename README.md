@@ -1,7 +1,7 @@
 # EPFL Extension School 
 # Applied Data Science: Machine Learning
 
-##  Capstone Project: Predicting airbnb prices in Melbourne. Do housing prices, crime rates and neighbouring airbnb prices help to predict airbnb prices?
+##  Capstone Project: Predicting airbnb prices in Melbourne. Do house prices, crime rates and neighbouring airbnb prices help to predict airbnb prices?
 
 The goal of this project is to predict airbnb data in Melbourne. In a first step we investigate whether information about house prices and crimes rates are related to airbnb prices. We then experiment with finer aggregations of neighbouring airbnb and house prices based on latitute and longitude of the accommodations. 
 
